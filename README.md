@@ -1,4 +1,4 @@
-<img class="gif-banner" src="https://user-images.githubusercontent.com/31332352/119162644-9ec37580-ba28-11eb-8e73-b76149197a1e.gif" width=100% height="200">
+<img class="gif-banner" src="https://user-images.githubusercontent.com/31332352/119162644-9ec37580-ba28-11eb-8e73-b76149197a1e.gif" width=100% height="250">
 <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
 <h3 align="center">A Budding Data Analyst with technical expertise in data extraction, manipulation and visualization to support organizations with data insights and help them in making impactful decisions.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
