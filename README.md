@@ -21,6 +21,11 @@
 
 <a href="mailto:mailing2ayush987@gmail.com">
 <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
+
+<a href="https://medium.com/@mailing2ayush987">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" style="width: 40px; height: 40px;">
+
+</a>
 </p>
 
 <h3 align="left"> Languages and Tools:</h3>
